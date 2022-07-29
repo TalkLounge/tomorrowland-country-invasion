@@ -1,0 +1,25 @@
+{
+  "name": "tomorrowland-country-invasion",
+  "description": "Start an Bot Country Invasion on Tomorrowland.com",
+  "version": "1.0.0",
+  "private": true,
+  "author": "TalkLounge <talklounge@yahoo.de> (https://github.com/TalkLounge)",
+  "repository": "github:TalkLounge/tomorrowland-country-invasion",
+  "homepage": "https://github.com/TalkLounge/tomorrowland-country-invasion#readme",
+  "bugs": "https://github.com/TalkLounge/tomorrowland-country-invasion/issues",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "keywords": [
+    "Tomorrowland",
+    "Website",
+    "Invasion",
+    "Country",
+    "Land",
+    "Bot"
+  ]
+}
